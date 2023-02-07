@@ -1,8 +1,14 @@
-[![Community Gitter](https://badges.gitter.im/aesara-devs/community.svg)](https://gitter.im/aesara-devs/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+<div align="center">
 
-# Welcome to the Aesara Project!
+<img src="https://github.com/aesara-devs/aesara/blob/main/doc/images/aesara_logo_2400.png?raw=true" alt="logo"></img>
 
-![logo](https://github.com/aesara-devs/aesara/blob/main/doc/images/aesara_logo_2400.png?raw=true)
+[![Gitter][gitter-badge]][gitter]
+[![Discord][discord-badge]][discord]
+[![Twitter][twitter-badge]][twitter]
+
+*Welcome to the Aesara Project!*
+
+</div>
 
 The Aesara Project is a collection of Python projects&mdash;built on a fork of Theano named [Aesara](https://github.com/aesara-devs/aesara)&mdash;that aid in the construction and use of domain-specific compilers for tensor-related computations.
 
@@ -29,3 +35,10 @@ Aesara is modular by design and it is straightforward to add new mathematical op
 ## Contact us!
 
 Chat with us via the [Gitter](gitter.im) link above. It's also compatible with [Matrix](https://matrix.org/)!
+
+[discord]: https://discord.gg/h3sjmPYuGJ
+[discord-badge]: https://img.shields.io/discord/1072170173785723041?color=81A1C1&logo=discord&logoColor=white&style=flat-square
+[gitter]: https://gitter.im/aesara-devs/community
+[gitter-badge]: https://img.shields.io/gitter/room/aesara-devs/community?color=81A1C1&logo=matrix&logoColor=white&style=flat-square
+[twitter]: https://twitter.com/AesaraDevs
+[twitter-badge]: https://img.shields.io/twitter/follow/AesaraDevs?style=social
