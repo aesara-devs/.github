@@ -29,7 +29,7 @@ In other words, users can build a symbolic graph that represents the mathematica
 
 Aesara is modular by design and it is straightforward to add new mathematical operators, new rewrite rules (e.g. numerical stabilizations, optimizations, etc.), and even new target languages.
 
-**Aesara opens new possibilities in Machine Learning, exemplified by the AePPL and AeMMC libraries.**
+**Aesara opens new possibilities in Machine Learning, exemplified by the AePPL and AeMCMC libraries.**
 
 
 ## Contact us!
